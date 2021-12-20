@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{5867BAC1-EFEA-4995-8CFF-7240C8137731}'];loadHandler&&loadHandler(1, '<div id="spr0_1958db6"><div id="spr1_1958db6" class="kern slide"><img id="img2_1958db6" src="data/img4.png" width="540px" height="405px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1958db6" class="kern slide"><div id="spr3_1958db6" style="left:25.313px;top:17.625px;"><img id="img0_1958db6" src="data/img5.jpg" width="494" height="362" alt="Без названия.jpg" style="left:-0.203px;top:-0.203px;"/></div><div id="spr4_1958db6" style="left:35px;top:210px;"><img id="img1_1958db6" src="data/img6.png" width="458" height="110" alt="Черкащино! Зоря моя єдина!\
+Струмочок чистий, як струна бринить. \
+Мій краю рідний! Пісня тополина!\
+Хіба тебе я можу не любить?!\
+"/></div></div></div>', '{"s":[]}');})();
